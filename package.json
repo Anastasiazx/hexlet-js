@@ -1,0 +1,28 @@
+{
+  "name": "hexlet",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "the first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anastasiazx/hexlet-js.git"
+  },
+  "keywords": [
+    "hexlet",
+    "project",
+    "game"
+  ],
+  "author": "Anastasiia Piatiletova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anastasiazx/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Anastasiazx/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
